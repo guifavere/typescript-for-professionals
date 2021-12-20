@@ -1,0 +1,13 @@
+{
+  "name": "palind",
+  "version": "1.0.0",
+  "main": "lib",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
